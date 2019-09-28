@@ -1,0 +1,8 @@
+Processor: Intel i5 4460 3.40Ghz LGA 1150
+Motherboard: Asus B85M-E/BR Gold Edition LGA 1150
+Memory: 1x4GB HyperX 1333Mhz | 1x8GB HyperX 1333Mhz
+HD: 1x1TB Seagate Barruca 7200rpm
+SSD: 1x240Gb Sandisk PLUS
+Monitor: ???? 75Hz 5ms
+Mouse: Bloody V7MA 3.200DPI 1ms
+Keyboard: Razer Blackwidow Ultimate
